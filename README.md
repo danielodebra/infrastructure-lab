@@ -2,8 +2,14 @@
 
 ## Overview
 
-This repository documents the design, buld, and ongoing development of my enterprise-style infrastructure lab.
+This repository documents the design, build, and ongoing development of my enterprise-style infrastructure lab.
 The goal of this project is to gain hands-on experience with core infrastructure technologies such as Active Directory, DNS, and Group Policy.
+
+
+## Documentation
+- [Lab Architecture](docs/01-lab-architecture.md)
+- [Network Architecture](docs/01-lab-architecture.md#network-architecture) 
+
 
 ## Technologies Used
 
@@ -15,3 +21,4 @@ The goal of this project is to gain hands-on experience with core infrastructure
 - UTM (Virtualisation)
 - macOS
 
+ 
